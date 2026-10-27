@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F6FA">
+
+    <TextView
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:background="#4A6CF7"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:text="Урок 1 из 90" />
+
+    <TextView
+        android:id="@+id/whiteboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:minHeight="90dp"
+        android:background="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:text="Whiteboard" />
+
+    <TextView
+        android:id="@+id/avatarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="6dp"
+        android:textSize="34sp"
+        android:text="😊" />
+
+    <ScrollView
+        android:id="@+id/chatScroll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/chatView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:lineSpacingMultiplier="1.3" />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/grammarView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="#FFF7E6"
+        android:textSize="13sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:gravity="center_vertical">
+
+        <EditText
+            android:id="@+id/inputField"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Напишите или скажите..."
+            android:inputType="text"
+            android:textSize="16sp" />
+
+        <ImageButton
+            android:id="@+id/micButton"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:contentDescription="mic"
+            android:src="@android:drawable/ic_btn_speak_now"
+            android:background="?attr/selectableItemBackgroundBorderless" />
+
+        <Button
+            android:id="@+id/sendButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OK" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/lessonDoneButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/lesson_done" />
+</LinearLayout>

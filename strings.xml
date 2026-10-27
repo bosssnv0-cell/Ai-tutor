@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Tutor — Sarah</string>
+    <string name="lesson_done">Урок пройден</string>
+    <string name="token_hint">Hugging Face read-токен (один раз)</string>
+    <string name="download_model">Скачать модель</string>
+</resources>

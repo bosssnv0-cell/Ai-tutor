@@ -1,0 +1,1308 @@
+{
+  "program_name": "English from Scratch - 1 Year",
+  "total_lessons": 90,
+  "modules": [
+    {
+      "module_id": 1,
+      "title": "Первые шаги (Абсолютный ноль)",
+      "focus": "Алфавит, звуки, to be, числа",
+      "lessons": [
+        {
+          "number": 1,
+          "topic": "Знакомство, Алфавит и гласные звуки. Приветствия Hello/Goodbye",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 2,
+          "topic": "Закрепление алфавита, согласные звуки и сочетания th, ch, sh",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 3,
+          "topic": "Глагол to be в утверждениях (I am, you are)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 4,
+          "topic": "Глагол to be (he/she/it). Страны и национальности",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 5,
+          "topic": "Числа от 0 до 20. Профессии и артикли a/an",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 6,
+          "topic": "Вопросы и отрицания с to be (Are you...? I am not...)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 7,
+          "topic": "Множественное число существительных. Числа 20-100",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 8,
+          "topic": "Окружающие предметы (It is a pen, they are books)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 9,
+          "topic": "Закрепление модуля 1: Базовые диалоги о себе",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 10,
+          "topic": "Подготовка к первому итоговому контролю",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 11,
+          "topic": "Итоговый тест Модуля 1. Симуляция устного зачета с аватаром",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": 2,
+      "title": "Мой мир и окружение",
+      "focus": "Указательные местоимения, have got, дом и семья",
+      "lessons": [
+        {
+          "number": 12,
+          "topic": "Указательные местоимения this/that/these/those",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 13,
+          "topic": "Have got / has got: владение. Моя семья",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 14,
+          "topic": "Члены семьи, притяжательный падеж 's",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 15,
+          "topic": "Внешность и характер: описание человека",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 16,
+          "topic": "Дом и комнаты. There is / There are",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 17,
+          "topic": "Мебель и предлоги места (in, on, under)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 18,
+          "topic": "Мой день: комнаты и действия в них",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 19,
+          "topic": "Чтение: мой дом (адаптированный текст)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 20,
+          "topic": "Аудирование: описания дома и семьи",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 21,
+          "topic": "Диалог: рассказ о своей семье",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 22,
+          "topic": "Лексика модуля 2: повторение слов",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 23,
+          "topic": "Грамматический тренажер have got / there is",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 24,
+          "topic": "Мини-проект: план моей квартиры (устно)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 25,
+          "topic": "Подготовка к итоговому контролю модуля 2",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 26,
+          "topic": "Итоговый тест Модуля 2 и устный зачет с Сарой",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": 3,
+      "title": "Повседневная жизнь и рутина",
+      "focus": "Время, Present Simple, хобби, экватор курса",
+      "lessons": [
+        {
+          "number": 27,
+          "topic": "Время на часах. What time is it?",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 28,
+          "topic": "Мой день: глаголы повседневных действий",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 29,
+          "topic": "Present Simple: утверждения (I get up at 7)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 30,
+          "topic": "Present Simple: 3-е лицо (he works, she goes)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 31,
+          "topic": "Present Simple: вопросы и отрицания",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 32,
+          "topic": "Наречия частотности (always, usually, never)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 33,
+          "topic": "Дни недели и расписание. On Monday I...",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 34,
+          "topic": "Хобби и увлечения: like + Ving",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 35,
+          "topic": "Могу/не могу: can/can't. Способности",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 36,
+          "topic": "Еда и напитки. Лексика кафе",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 37,
+          "topic": "В кафе: заказ, вежливые фразы",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 38,
+          "topic": "Чтение: день из жизни (Present Simple)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 39,
+          "topic": "Аудирование: распорядок дня и хобби",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 40,
+          "topic": "Диалог: интервью о привычках",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 41,
+          "topic": "Экватор курса: большой повтор модулей 1-3",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 42,
+          "topic": "Грамматический марафон Present Simple",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 43,
+          "topic": "Итоговый тест Модуля 3 и устный зачет с Сарой",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": 4,
+      "title": "Город, логистика и выживание",
+      "focus": "Ориентация в городе, покупки, одежда, погода, транспорт",
+      "lessons": [
+        {
+          "number": 44,
+          "topic": "Город: улицы, здания, достопримечательности",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 45,
+          "topic": "Как спросить дорогу. Turn left/right",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 46,
+          "topic": "Транспорт: автобус, метро, такси",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 47,
+          "topic": "Покупки: магазины и отделы",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 48,
+          "topic": "Одежда и цвета. What are you wearing?",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 49,
+          "topic": "Цены и числа до 1000. How much is it?",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 50,
+          "topic": "Погода и времена года. It is raining",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 51,
+          "topic": "Погода и одежда: что надеть",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 52,
+          "topic": "Present Continuous: что происходит сейчас",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 53,
+          "topic": "Present Continuous vs Present Simple",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 54,
+          "topic": "Ресторан и меню: заказ еды",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 55,
+          "topic": "Чтение: выходной в городе",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 56,
+          "topic": "Аудирование: покупки и погода",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 57,
+          "topic": "Итоговый тест Модуля 4 и устный зачет с Сарой",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": 5,
+      "title": "Прошлое и воспоминания",
+      "focus": "Past Simple (was/were), правильные и неправильные глаголы",
+      "lessons": [
+        {
+          "number": 58,
+          "topic": "Прошлое: was / were. Где я был вчера",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 59,
+          "topic": "Прошлое: отрицания и вопросы с was/were",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 60,
+          "topic": "Past Simple: правильные глаголы (-ed)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 61,
+          "topic": "Past Simple: произношение окончания -ed",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 62,
+          "topic": "Неправильные глаголы, часть 1 (go-went, see-saw)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 63,
+          "topic": "Неправильные глаголы, часть 2",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 64,
+          "topic": "Past Simple: вопросы и отрицания (did)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 65,
+          "topic": "Вчера: распорядок в прошедшем",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 66,
+          "topic": "Каникулы и путешествия в прошлом",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 67,
+          "topic": "Биография: жизнь известных людей (past)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 68,
+          "topic": "Время: даты и годы в прошлом",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 69,
+          "topic": "Чтение: история одного дня",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 70,
+          "topic": "Аудирование: рассказы о прошлом",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 71,
+          "topic": "Диалог: что ты делал на выходных",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 72,
+          "topic": "Большое повторение модулей 1-5",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 73,
+          "topic": "Грамматический марафон Past Simple",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        }
+      ]
+    },
+    {
+      "module_id": 6,
+      "title": "Планы, будущее и уверенный Elementary",
+      "focus": "be going to, Future Simple, сравнение предметов, финальный экзамен",
+      "lessons": [
+        {
+          "number": 74,
+          "topic": "Планы: be going to (I am going to visit)",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 75,
+          "topic": "be going to: вопросы и отрицания",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 76,
+          "topic": "Future Simple: will. Обещания и предсказания",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 77,
+          "topic": "will vs going to: когда что использовать",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 78,
+          "topic": "Сравнение: big/bigger/the biggest",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 79,
+          "topic": "Сравнение: more beautiful / the most beautiful",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 80,
+          "topic": "Хочу и должен: want to / have to",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 81,
+          "topic": "Должен и не должен: must / mustn't",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 82,
+          "topic": "Советы: should / shouldn't",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 83,
+          "topic": "Здоровье и у врача: лексика",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 84,
+          "topic": "У врача: диалог с Сарой-доктором",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 85,
+          "topic": "Финальное чтение: адаптированный рассказ",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 86,
+          "topic": "Финальное аудирование: диалоги на все времена",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 87,
+          "topic": "Подготовка к выпускному экзамену",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 88,
+          "topic": "Письменный выпускной экзамен",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 89,
+          "topic": "Устный выпускной экзамен с аватаром",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        },
+        {
+          "number": 90,
+          "topic": "Выпускной: итоговый разбор и сертификат Elementary",
+          "target_phrases": [
+            "Hello! How are you?",
+            "My name is...",
+            "I am from Russia.",
+            "Nice to meet you.",
+            "Where are you from?",
+            "This is my friend.",
+            "I like it very much.",
+            "See you tomorrow!"
+          ]
+        }
+      ]
+    }
+  ]
+}
