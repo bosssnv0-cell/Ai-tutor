@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs_on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
@@ -85,23 +85,4 @@ jobs:
                   <activity android:name=".MainActivity" android:exported="true">
                       <intent-filter>
                           <action android:name="android.intent.action.MAIN"/>
-                          <category android:name="android.intent.category.LAUNCHER"/>
-                      </intent-filter>
-                  </activity>
-              </application>
-          </manifest>
-          EOF
-          cat > app/src/main/res/values/themes.xml <<'EOF'
-          <?xml version="1.0" encoding="utf-8"?>
-          <resources>
-              <style name="Theme.AiTutor" parent="Theme.AppCompat.DayNight.NoActionBar"/>
-          </resources>
-          EOF
-
-      - name: Build APK
-        run: gradle assembleDebug --no-daemon
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: ai-tutor-apk
-          path: app/build/outputs/apk/debug/app-debug.apk
+                          <category android:
